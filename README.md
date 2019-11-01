@@ -1,6 +1,6 @@
 # Ruby-learning
-ruby learning
+Ruby learning
 ### とりあえずHello,World
 1行でできるとのこと
-### Riby on Rails
+### Ruby on Rails
 やっぱこれでしょ
