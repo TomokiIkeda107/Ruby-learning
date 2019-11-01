@@ -1,4 +1,4 @@
-# ruby-learning
+# Ruby-learning
 ruby learning
 ### とりあえずHello,World
 1行でできるとのこと
